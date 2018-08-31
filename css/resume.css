@@ -1,0 +1,22 @@
+/* social media icons */
+body {
+  /*background-image: url(/images/logo/rectangle_Latte.png)*/
+  /*background-image: url("https://s1-ssl.dmcdn.net/rswza/1920x-BRC.jpg")*/
+}
+
+.carousel-caption {
+  bottom: 8rem;
+  z-index: 10;
+}
+.carousel-item {
+  height: 32rem;
+}
+.carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+  opacity: 0.2;
+}
+/* end social media icons */
