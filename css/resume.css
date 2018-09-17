@@ -1,9 +1,3 @@
-/* social media icons */
-body {
-  /*background-image: url(/images/logo/rectangle_Latte.png)*/
-  /*background-image: url("https://s1-ssl.dmcdn.net/rswza/1920x-BRC.jpg")*/
-}
-
 .carousel-caption {
   bottom: 8rem;
   z-index: 10;
@@ -19,4 +13,3 @@ body {
   height: 32rem;
   opacity: 0.2;
 }
-/* end social media icons */
