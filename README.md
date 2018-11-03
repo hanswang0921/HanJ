@@ -11,3 +11,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;動態錄影<br>
 &nbsp;&nbsp;&nbsp;&nbsp;形象廣告<br>
 &nbsp;&nbsp;&nbsp;&nbsp;影片製作<br>
+<br>
+網頁更新教學影片 https://drive.google.com/open?id=1yx3WL47eFb_cvrtF99jb-PADLa0zzR6P<br>
