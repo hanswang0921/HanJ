@@ -7,3 +7,7 @@
 	動態錄影
 	形象廣告
 	影片製作
+	
+形象廣告 : pages/business_commercial.html
+活動紀錄 : pages/business_activity.html
+婚禮攝影 : pages/wedding_record.html
