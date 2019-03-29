@@ -5,7 +5,7 @@
 <br>
 網頁搜尋關鍵字<br>
 &nbsp;&nbsp;&nbsp;&nbsp;HANSOM.STUDIO<br>
-&nbsp;&nbsp;&nbsp;&nbsp;翰生影音工作室<br>
+&nbsp;&nbsp;&nbsp;&nbsp;翰生影音有限公司<br>
 &nbsp;&nbsp;&nbsp;&nbsp;婚禮攝影<br>
 &nbsp;&nbsp;&nbsp;&nbsp;活動紀錄<br>
 &nbsp;&nbsp;&nbsp;&nbsp;動態錄影<br>
