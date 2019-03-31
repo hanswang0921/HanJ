@@ -3,6 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;活動紀錄 : pages/business_activity.html<br>
 &nbsp;&nbsp;&nbsp;&nbsp;婚禮攝影 : pages/wedding_record.html<br>
 &nbsp;&nbsp;&nbsp;&nbsp;關於翰生影音 : pages/resume.html<br>
+&nbsp;&nbsp;&nbsp;&nbsp;聯繫我們 : pages/contact_us.html<br>
 <br>
 網頁搜尋關鍵字<br>
 &nbsp;&nbsp;&nbsp;&nbsp;HANSOM.STUDIO<br>
